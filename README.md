@@ -1,10 +1,10 @@
 # Cogentic- Train your CoFOunder. 🥚
 
 ## Project Overview
-Mysterious on the websit  starting with an oversized, mysterious egg interface.
+Dont find your cofounder, train them. 
 
 ## Design Theme
-- Cyberpunk aesthetic
+Mysterious on the websit  starting with an oversized, mysterious egg interface.
 - Dark background with neon accents
 - Retro-futuristic Tamagotchi inspiration
 - Minimalist yet engaging interface
@@ -16,8 +16,8 @@ Mysterious on the websit  starting with an oversized, mysterious egg interface.
   - Subtle pulsing glow animation
   - Neon color palette (suggest: purple, cyan, hot pink)
   - Floating/hovering effect
-- Single input field for Twitter handle
-- Hidden changelog that appears after handle submission
+- Single input field for Twitter handle(make it super user unfriendly to input, i want to make it hard)
+- Hidden changelog that appears **after** handle submission
 - Easter egg interactions
 
 #### Technical Specifications
