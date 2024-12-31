@@ -1,7 +1,7 @@
-# Tamagotchi AI Co-founder - Cyberpunk Edition 🥚
+# Cogentic- Train your CoFOunder. 🥚
 
 ## Project Overview
-A cyberpunk-themed AI co-founder experience, starting with an oversized, mysterious egg interface.
+Mysterious on the websit  starting with an oversized, mysterious egg interface.
 
 ## Design Theme
 - Cyberpunk aesthetic
