@@ -6,6 +6,16 @@ TL;DR
 | **Hatchling**| Data input form, animations, and backend storage                             | Submit data to "train" the AI       |
 | **Juvenile** | Chat interface, basic text generation, and interactive visuals              | Request and receive basic responses |
 
+##Other Sources to Look##
+https://elizagen.howieduhzit.best/ -- Entire a16z ecosystem is great to deploy and monetize bots. Character file and customiizing that "voice" robust. Lacks GUI. 
+
+https://app.virtuals.io/
+Another platform helping you track , deploy, and monetize bots 
+
+
+https://www.gaianet.ai/
+Platform, but they a more familiar UI and allows you to try workflows quickly. Compose a tweeet, research this, etc
+
 ## Project Overview
 Dont find your cofounder, train them. AI Co-Founder for Marketing
 
