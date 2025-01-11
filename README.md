@@ -6,8 +6,12 @@ TL;DR
 | **Hatchling**| Data input form, animations, and backend storage                             | Submit data to "train" the AI       |
 | **Juvenile** | Chat interface, basic text generation, and interactive visuals              | Request and receive basic responses |
 
+
+
+
 ##Other Sources to Look##
-https://elizagen.howieduhzit.best/ -- Entire a16z ecosystem is great to deploy and monetize bots. Character file and customiizing that "voice" robust. Lacks GUI. 
+https://elizagen.howieduhzit.best/ -- Entire a16z ecosystem is great to deploy and monetize bots.
+Character file and customiizing that "voice" robust. Lacks GUI. 
 
 https://app.virtuals.io/
 Another platform helping you track , deploy, and monetize bots 
@@ -57,7 +61,7 @@ Used for countdown, what were doing, etc
 
 ##2. Hatchling Stage: Data Input##
 	•	Purpose: Enable users to “feed” the AI by providing data for customization.
-    Similar to https://elizagen.howieduhzit.best/ 
+    Similar to https://ai-tamago.fly.dev/
     We could use their framework and build on their platform
 	•	Core Features:
 	•	Data Collection Form:
